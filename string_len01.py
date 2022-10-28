@@ -6,4 +6,7 @@ def main(a):
     Returns:
         length of string
     """
-    return
+    z = len(a)
+    return z
+
+print( main("qwert"))

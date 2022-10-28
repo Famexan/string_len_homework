@@ -8,5 +8,3 @@ def main(a):
     """
     z = len(a)
     return z
-
-print( main("qwert"))
